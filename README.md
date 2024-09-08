@@ -2,7 +2,7 @@
 
 ## Installation
 
-1. Clonez le dépôt : https://github.com/faulki/Projet-Rick-Morty.git
+1. Clonez le dépôt : https://github.com/faulki/Rick-Morty.git
 
 2. Ouvrez le dossier cloné dans votre serveur PHP local (XAMPP, WAMP, MAMP, etc.).
 
